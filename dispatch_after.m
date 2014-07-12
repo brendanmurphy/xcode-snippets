@@ -7,6 +7,6 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)( * NSEC_PER_SEC)), dispatch_get_main_queue(), ^(void){
+dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(<#num_sec_delay#> * NSEC_PER_SEC)), dispatch_get_main_queue(), ^(void){
     <#code to be executed on the main queue after delay#>
 });
