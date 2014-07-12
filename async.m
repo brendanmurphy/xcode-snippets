@@ -1,5 +1,5 @@
 // dispatch async
-// Dispatch to do work in the background, and then to the main queue with the results
+// async
 //
 // IDECodeSnippetCompletionPrefix: dispatch_async
 // IDECodeSnippetCompletionScopes: [CodeBlock]
