@@ -1,5 +1,5 @@
 // fast enumeration
-// Fast enumeration
+// forin
 //
 // IDECodeSnippetCompletionPrefix: forin
 // IDECodeSnippetCompletionScopes: [CodeBlock]
