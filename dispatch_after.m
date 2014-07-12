@@ -1,4 +1,4 @@
-// dispatch after delay
+// dispatch after
 // <dafter>
 //
 // IDECodeSnippetCompletionPrefix: dafter
