@@ -1,4 +1,4 @@
-// dispatch_once
+// dispatch once
 // Dispatch to do work once in the lifetime of the application
 //
 // IDECodeSnippetCompletionPrefix: dispatch_once
