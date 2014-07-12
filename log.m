@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
- NSLog(@"%s %@", __PRETTY_FUNCTION__, @"<#message#>");
+ NSLog(@">>>>>> %s %@", __PRETTY_FUNCTION__, @"<#message#>");
