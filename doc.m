@@ -1,5 +1,5 @@
 // doc
-// Appledoc documenation format
+// <doc>
 //
 // IDECodeSnippetCompletionPrefix: doc
 // IDECodeSnippetCompletionScopes: [All]
