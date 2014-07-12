@@ -1,7 +1,7 @@
 // dispatch_after
-// Dispatch to do work after a given delay
+// <dafter>
 //
-// IDECodeSnippetCompletionPrefix: dispatch_after
+// IDECodeSnippetCompletionPrefix: dafter
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: AE69284C-35F2-4E84-9B8F-F522DEC8A8CA
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
