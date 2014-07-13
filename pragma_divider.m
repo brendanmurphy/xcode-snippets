@@ -7,6 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-//--------------------------------------
 
 #pragma mark - <#section title#>
