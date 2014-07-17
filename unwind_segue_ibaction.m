@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-- (IBAction)unwindTo<#Name#>:(UIStoryboardSegue *)segue;
+- (IBAction)<#unwindToThisViewController#>:(UIStoryboardSegue *)segue;
