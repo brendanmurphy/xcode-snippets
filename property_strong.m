@@ -2,7 +2,7 @@
 // <prop>
 //
 // IDECodeSnippetCompletionPrefix: prop
-// IDECodeSnippetCompletionScopes: [ClassInterfaceVariables]
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 0BC67746-B6A9-4E7B-860D-265FE042E73A
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
