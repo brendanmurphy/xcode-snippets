@@ -1,4 +1,4 @@
-// IBOutlet
+// outlet property
 // <outlet>
 //
 // IDECodeSnippetCompletionPrefix: outlet
